@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49b18058-0ef0-47ed-a469-8b3a8b3bff3a" name="Changes" comment="LongestSubstring">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindromeSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <recent name="F:\LeetCode\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstring">
+  <component name="RunManager" selected="Application.LongestPalindromeSubstring">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="LeetCode" />
@@ -70,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestPalindromeSubstring" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestSubstring" />
       <module name="LeetCode" />
@@ -77,20 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortColors" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestPalindromeSubstring" />
         <item itemvalue="Application.LongestSubstring" />
         <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.SortColors" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661184046687</updated>
       <workItem from="1661184048126" duration="3520000" />
-      <workItem from="1661443719202" duration="8425000" />
+      <workItem from="1661443719202" duration="15110000" />
     </task>
     <task id="LOCAL-00001" summary="LongestSubstring">
       <created>1661529297641</created>
@@ -132,5 +132,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LongestSubstring" />
     <option name="LAST_COMMIT_MESSAGE" value="LongestSubstring" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongestPalindromeSubstring.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
