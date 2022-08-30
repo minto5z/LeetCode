@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49b18058-0ef0-47ed-a469-8b3a8b3bff3a" name="Changes" comment="LongestSubstring">
-      <change afterPath="$PROJECT_DIR$/src/FindAllAnagramsinaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstBadVersion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LongestPalindromeSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LongestPalindromeSubstring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +49,16 @@
       <recent name="F:\LeetCode\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindAllAnagramsinaString">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+  <component name="RunManager" selected="Application.FirstAndLastPosition">
+    <configuration name="FindAllAnagramsinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsinaString" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAllAnagramsinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsinaString" />
+    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstAndLastPosition" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstAndLastPosition" />
         <item itemvalue="Application.FindAllAnagramsinaString" />
         <item itemvalue="Application.LongestPalindromeSubstring" />
         <item itemvalue="Application.LongestSubstring" />
         <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661184046687</updated>
       <workItem from="1661184048126" duration="3520000" />
-      <workItem from="1661443719202" duration="23380000" />
+      <workItem from="1661443719202" duration="27424000" />
     </task>
     <task id="LOCAL-00001" summary="LongestSubstring">
       <created>1661529297641</created>
