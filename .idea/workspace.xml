@@ -48,7 +48,7 @@
       <recent name="F:\LeetCode\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.FindPeakElement">
     <configuration name="FindAllAnagramsinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindAllAnagramsinaString" />
       <module name="LeetCode" />
@@ -63,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstAndLastPosition" />
+    <configuration name="FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPeakElement" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstAndLastPosition" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,7 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FindPeakElement" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.FindMinimuminRotatedSortedArray" />
         <item itemvalue="Application.FirstAndLastPosition" />
