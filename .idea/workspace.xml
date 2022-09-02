@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49b18058-0ef0-47ed-a469-8b3a8b3bff3a" name="Changes" comment="LongestSubstring">
+      <change afterPath="$PROJECT_DIR$/src/BookAllowcation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,9 @@
       <recent name="F:\LeetCode\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindPeakElement">
-    <configuration name="FindAllAnagramsinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsinaString" />
+  <component name="RunManager" selected="Application.BookAllowcation">
+    <configuration name="BookAllowcation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookAllowcation" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookAllowcation" />
         <item itemvalue="Application.FindPeakElement" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.FindMinimuminRotatedSortedArray" />
         <item itemvalue="Application.FirstAndLastPosition" />
-        <item itemvalue="Application.FindAllAnagramsinaString" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,7 @@
       <workItem from="1661184048126" duration="3520000" />
       <workItem from="1661443719202" duration="28929000" />
       <workItem from="1661884509351" duration="2639000" />
-      <workItem from="1662052505891" duration="3404000" />
+      <workItem from="1662052505891" duration="6763000" />
     </task>
     <task id="LOCAL-00001" summary="LongestSubstring">
       <created>1661529297641</created>
