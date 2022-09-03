@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49b18058-0ef0-47ed-a469-8b3a8b3bff3a" name="Changes" comment="LongestSubstring">
-      <change afterPath="$PROJECT_DIR$/src/PainterPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AggrasiveCow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NonDecreasingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +48,20 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\LeetCode\.idea" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PainterPartition">
-    <configuration name="BookAllowcation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookAllowcation" />
+  <component name="RunManager" selected="Application.NonDecreasingArray">
+    <configuration name="AggrasiveCow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AggrasiveCow" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimuminRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMinimuminRotatedSortedArray" />
+    <configuration name="BookAllowcation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookAllowcation" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NonDecreasingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NonDecreasingArray" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PainterPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PainterPartition" />
       <module name="LeetCode" />
@@ -76,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchInsertPosition" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonDecreasingArray" />
+        <item itemvalue="Application.AggrasiveCow" />
         <item itemvalue="Application.PainterPartition" />
         <item itemvalue="Application.BookAllowcation" />
         <item itemvalue="Application.FindPeakElement" />
-        <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.FindMinimuminRotatedSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +109,7 @@
       <workItem from="1661184048126" duration="3520000" />
       <workItem from="1661443719202" duration="28929000" />
       <workItem from="1661884509351" duration="2639000" />
-      <workItem from="1662052505891" duration="7868000" />
+      <workItem from="1662052505891" duration="14346000" />
     </task>
     <task id="LOCAL-00001" summary="LongestSubstring">
       <created>1661529297641</created>
@@ -146,6 +151,11 @@
           <url>file://$PROJECT_DIR$/src/FindAllAnagramsinaString.java</url>
           <line>11</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NonDecreasingArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
